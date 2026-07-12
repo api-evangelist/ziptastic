@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://ziptasticapi.com/
 common:
+  - type: DomainSecurity
+    url: security/ziptastic-domain-security.yml
   - type: Website
     url: https://ziptasticapi.com/
   - type: PublicAPIsListing
