@@ -39,7 +39,6 @@ apis:
   - name: Ziptastic
     description: "Get the country, state, and city of any US zip-code"
     humanURL: https://ziptasticapi.com/
-    baseURL: https://ziptasticapi.com/
     tags:
       - Geocoding
     properties:
